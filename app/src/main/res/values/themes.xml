@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Gallery" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primaryHint</item>
+        <item name="colorOnPrimary">@color/secondary</item>
+    </style>
+</resources>
